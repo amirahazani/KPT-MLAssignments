@@ -1,0 +1,15 @@
+occupancy detection--> detect behaviour eg sitting, lying down, falling
+
+https://github.com/JardinRyu/Jetson_Nano_People_Counting
+https://forums.developer.nvidia.com/t/real-time-people-tracking-and-counting-on-jetson-nano/174756
+
+face recognition - our picture
+A)
+B)blur face only- similar to example 12, but apply blurring inside the box
+-or do landmark detection for more accuracy 
+
+C) picture from internet --> shape of object for contours eg. circles
+
+-1 page synopsis of project
+-deep learning project
+-jetson-based
