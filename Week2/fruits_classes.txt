@@ -1,4 +1,0 @@
-durian, Durian
-pumpkin, Pumpkin
-tomato, Tomato
-watermelon, Watermelon
